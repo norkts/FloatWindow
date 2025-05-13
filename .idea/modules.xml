@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FloatWindow.iml" filepath="$PROJECT_DIR$/FloatWindow.iml" />
-      <module fileurl="file://$PROJECT_DIR$/floatwindow/floatwindow.iml" filepath="$PROJECT_DIR$/floatwindow/floatwindow.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FloatWindow.iml" filepath="$PROJECT_DIR$/.idea/modules/FloatWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/floatwindow/FloatWindow.floatwindow.iml" filepath="$PROJECT_DIR$/.idea/modules/floatwindow/FloatWindow.floatwindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/floatwindow/FloatWindow.floatwindow.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/floatwindow/FloatWindow.floatwindow.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/floatwindow/FloatWindow.floatwindow.main.iml" filepath="$PROJECT_DIR$/.idea/modules/floatwindow/FloatWindow.floatwindow.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/floatwindow/FloatWindow.floatwindow.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/floatwindow/FloatWindow.floatwindow.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/FloatWindow.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/FloatWindow.sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/FloatWindow.sample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/FloatWindow.sample.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/FloatWindow.sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/FloatWindow.sample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/FloatWindow.sample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/FloatWindow.sample.unitTest.iml" />
     </modules>
   </component>
 </project>
