@@ -6,7 +6,6 @@ import android.graphics.PixelFormat;
 import android.os.Binder;
 import android.os.Build;
 import android.provider.Settings;
-import android.support.annotation.RequiresApi;
 import android.view.View;
 import android.view.WindowManager;
 
@@ -60,7 +59,6 @@ class PermissionUtil {
      * 用于判断8.0时是否有权限，仅用于OnActivityResult
      * 针对8.0官方bug:在用户授予权限后Settings.canDrawOverlays或checkOp方法判断仍然返回false
      */
-    @RequiresApi(api = Build.VERSION_CODES.M)
     private static boolean hasPermissionForO(Context context) {
         try {
             WindowManager mgr = (WindowManager) context.getSystemService(Context.WINDOW_SERVICE);
